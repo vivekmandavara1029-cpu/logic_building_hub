@@ -10,7 +10,7 @@ this repository is for beginner to intermediate level users in C++.
 
 ## 📂 Repository Structure
 The programs are organized into logical modules:
-*
+* *neon number.cpp*: a neon number is a specific type of a number in mathematics where the sum of the digits of square is equal to the original number.
 
 
 ### Prerequisites
