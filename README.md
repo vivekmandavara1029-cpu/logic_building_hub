@@ -1,6 +1,6 @@
 # logic_building_hub_C++
 Welcome to the ** LOGIC_BIULDING_HUB_C++ **!. This repository is a dedicated space for mastering fundamental programming logic,algorithms and C++ concepts.
-The primary goal of this repository is to shaepen problems solving capabilities ,optimize code eficiency andbuild strong foundation for competative programming.
+The primary goal of this repository is to sharpen problems solving capabilities ,optimize code eficiency andbuild strong foundation for competative programming.
 this repository is for beginner to intermediate level users in C++.
 
 ## 🛠️ Features
@@ -31,7 +31,6 @@ Ensure you have a C++ compiler installed (like g++ via GCC,dev C++,Clang and VSc
    
 
 ## 📈 Goals
-- [ ] Complete 100+ logical puzzles and interview problems.
 - [ ] Convert brute-force approaches into highly optimized solutions.
 - [ ] Master the C++ Standard Template Library (STL).
 -
