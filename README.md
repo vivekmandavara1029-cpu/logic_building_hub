@@ -11,6 +11,7 @@ this repository is for beginner to intermediate level users in C++.
 ## 📂 Repository Structure
 The programs are organized into logical modules:
 * *neon number.cpp*: a neon number is a specific type of a number in mathematics where the sum of the digits of square is equal to the original number.
+* *niven numver.cpp*: a nivrn numbrt or( harshad nmber) is an integer that can be evenly divided by the sum of its own digits.
 
 
 ### Prerequisites
