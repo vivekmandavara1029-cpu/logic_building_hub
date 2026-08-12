@@ -11,6 +11,7 @@ this repository is for beginner to intermediate level users in C++.
 ## 📂 Repository Structure
 The programs are organized into logical modules:
 * *automorphic number.cpp*:An Automorphic Number is an integer whose square ends with the exact same digits as the number itself.
+* *fibonacci series.cpp*: The Fibonacci series is a famous number pattern.it starts with 0 and 1 and you find the next number by adding the two number right before it together.the pattern goes: 0,1,1,2,3,5,8,13 and so on. 
 * *neon number.cpp*: A Neon Number is a specific type of a number in mathematics where the sum of the digits of square is equal to the original number.
 * *niven numver.cpp*: A Niven Number or (harshad number) is an integer that can be evenly divided by the sum of its own digits.
 
