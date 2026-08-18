@@ -12,6 +12,10 @@ this repository is for beginner to intermediate level users in C++.
 
 ## 📂 Repository Structure
 The programs are organized into logical modules:
+* *armstrong number.cpp*: An Armstrong number is a number equal to the sum of its own digits each raised to the power of the total number of digits.it is also called a narcissistic number
+                           for example : 3 digit number 153 = (1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153) , 371 = (3^3 + 7^3 + 1^3 = 27 + 343 + 1 = 371)
+                                         4 digit number 1634 = (1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634) etc.
+
 * *automorphic number.cpp*: An Automorphic Number is an integer whose square ends with the exact same digits as the number itself.
   
 * *fibonacci series.cpp*: The Fibonacci series is a famous number pattern.it starts with 0 and 1 and you find the next number by adding the two number right                                  before it together.the pattern goes: 0,1,1,2,3,5,8,13 and so on.
