@@ -17,6 +17,8 @@ The programs are organized into logical modules:
                                          4 digit number 1634 = (1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634) etc.
 
 * *automorphic number.cpp*: An Automorphic Number is an integer whose square ends with the exact same digits as the number itself.
+
+* *emirp number.cpp*: An emirp number (the word "prime" spelled backward) is a prime number that turns into a different prime number when you flip its digits backward. when both the numbers (original and reverse of original) both are prime than the original number is emirp number. for example : 13 , 17 , 71 , 31 etc.
   
 * *fibonacci series.cpp*: The Fibonacci series is a famous number pattern.it starts with 0 and 1 and you find the next number by adding the two number right                                  before it together.the pattern goes: 0,1,1,2,3,5,8,13 and so on.
   
