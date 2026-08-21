@@ -12,6 +12,9 @@ this repository is for beginner to intermediate level users in C++.
 
 ## 📂 Repository Structure
 The programs are organized into logical modules:
+
+* *alternating power series.cpp*: An alternating algebraic power series or A standard calculus power series  with alternating algebraic coefficients in n, i.e adding the even power values and subtracting the odd power values .
+
 * *armstrong number.cpp*: An Armstrong number is a number equal to the sum of its own digits each raised to the power of the total number of digits.it is also called a narcissistic number
                            for example : 3 digit number 153 = (1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153) , 371 = (3^3 + 7^3 + 1^3 = 27 + 343 + 1 = 371)
                                          4 digit number 1634 = (1^4 + 6^4 + 3^4 + 4^4 = 1 + 1296 + 81 + 256 = 1634) etc.
