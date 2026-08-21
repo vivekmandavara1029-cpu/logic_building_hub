@@ -29,6 +29,8 @@ The programs are organized into logical modules:
 * *neon number.cpp*: A Neon Number is a specific type of a number in mathematics where the sum of the digits of square is equal to the original number.
   
 * *niven number.cpp*: A Niven Number or (harshad number) is an integer that can be evenly divided by the sum of its own digits.
+
+* *pattern_matrices.cpp*: To print the n*n matrices using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
   
 * *perfect_number.cpp*: A perfect number is a positive whole number that equals the sum of its proper positive divisors, meaning all divisors of the number                                 excluding the number itself. the smallest example is 6 = (1+2+3) , 28 = (1+2+4+7+14) etc.
   
