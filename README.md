@@ -30,6 +30,8 @@ The programs are organized into logical modules:
 * *happy,sad number.cpp*: A happy number is a number that eventually reaches 1 when you replace it with the sum of the square of each digit and repeat the process. A sad number (or unhappy number) is a number that never reaches 1 because it gets stuck in an endless loop. To the observations if we see that sad number reaches to a 4 and repeat infinte loop.
   
 * *neon number.cpp*: A Neon Number is a specific type of a number in mathematics where the sum of the digits of square is equal to the original number.
+
+* *nesting-(only 3 factor)numbers.cpp*: To find a number in a given range that has exactly 3 factors, look for the square of a prime number. Prime squares are the only whole numbers with three factors (1, the number itself, and the prime root). For example: if you given a lower and upper range ( 1 to 40 ). now the numbers lies in the range is  4 (2²), 9 (3²), and25 (5²) have three factors.
   
 * *niven number.cpp*: A Niven Number or (harshad number) is an integer that can be evenly divided by the sum of its own digits.
 
