@@ -39,6 +39,8 @@ The programs are organized into logical modules:
 
 * pattern rightangle triangle.cpp*: To print the right angle triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
+* pattern equilateral triangle.cpp*:To print the equilateral triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
+
 * *perfect_number.cpp*: A perfect number is a positive whole number that equals the sum of its proper positive divisors, meaning all divisors of the number                                 excluding the number itself. the smallest example is 6 = (1+2+3) , 28 = (1+2+4+7+14) etc.
   
 * *strong_number.cpp*: A strong number is a positive number where the sum of the factorials of its digits equals to the original number (also called a                                    Krishnamurthy number or factorion).for example : 145 = 1!+4!+5! , 1 = 1! etc.
