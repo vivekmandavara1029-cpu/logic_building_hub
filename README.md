@@ -35,6 +35,8 @@ The programs are organized into logical modules:
   
 * *niven number.cpp*: A Niven Number or (harshad number) is an integer that can be evenly divided by the sum of its own digits.
 
+* *pattern hollow rhombus*: To print the hollow rhombus of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
+
 * *pattern_matrices.cpp*: To print the n*n matrices using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
 * pattern rightangle triangle.cpp*: To print the right angle triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
