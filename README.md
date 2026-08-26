@@ -37,6 +37,8 @@ The programs are organized into logical modules:
 
 * *pattern hollow rhombus*: To print the hollow rhombus of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
+* pattern rhombus.cpp*:To print the rhombus of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.for example: n = 4  {rhombus is print in ((2*4-1) = 7 lines).}
+
 * *pattern_matrices.cpp*: To print the n*n matrices using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
 * pattern rightangle triangle.cpp*: To print the right angle triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
