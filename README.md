@@ -35,15 +35,17 @@ The programs are organized into logical modules:
   
 * *niven number.cpp*: A Niven Number or (harshad number) is an integer that can be evenly divided by the sum of its own digits.
 
+* *pattern hollow matrices with diagonal.cpp*:
+
 * *pattern hollow rhombus*: To print the hollow rhombus of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
 * *pattern rhombus.cpp*:To print the rhombus of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.for example: n = 4  {rhombus is print in ((2*4-1) = 7 lines).}
+  
+* *pattern rightangle triangle.cpp*: To print the n*n hollow matrices with diagonal of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
-* *pattern_matrices.cpp*: To print the n*n matrices using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
+* *pattern equilateral triangle.cpp*:To print the equilateral triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
-* pattern rightangle triangle.cpp*: To print the right angle triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
-
-* pattern equilateral triangle.cpp*:To print the equilateral triangle of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
+* *pattern_matrices.cpp*:To print the n*n matrices of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
 * *perfect_number.cpp*: A perfect number is a positive whole number that equals the sum of its proper positive divisors, meaning all divisors of the number                                 excluding the number itself. the smallest example is 6 = (1+2+3) , 28 = (1+2+4+7+14) etc.
   
