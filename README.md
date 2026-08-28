@@ -32,6 +32,8 @@ The programs are organized into logical modules:
 * *neon number.cpp*: A Neon Number is a specific type of a number in mathematics where the sum of the digits of square is equal to the original number.
 
 * *nesting-(only 3 factor)numbers.cpp*: To find a number in a given range that has exactly 3 factors, look for the square of a prime number. Prime squares are the only whole numbers with three factors (1, the number itself, and the prime root). For example: if you given a lower and upper range ( 1 to 40 ). now the numbers lies in the range is  4 (2²), 9 (3²), and25 (5²) have three factors.
+
+* *nesting armstrong number.cpp*:  An Armstrong number is a number equal to the sum of its own digits each raised to the power of the total number of digits and find the all armstrong number of a given limits( lower and upper ). for example : the lower limit is x and the upper limit is y ,so the armstrong numberd lies in the x and y.
   
 * *niven number.cpp*: A Niven Number or (harshad number) is an integer that can be evenly divided by the sum of its own digits.
 
