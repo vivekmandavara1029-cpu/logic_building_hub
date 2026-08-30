@@ -51,11 +51,13 @@ The programs are organized into logical modules:
 
 * *pattern_matrices.cpp*:To print the n*n matrices of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
 
+* *pattern_swastik.cpp*:To print the swastik pattern of a given number using simple pattern printing including ( nestings , ifelse , basic loops ) concepts.
+
 * *perfect_number.cpp*: A perfect number is a positive whole number that equals the sum of its proper positive divisors, meaning all divisors of the number                                 excluding the number itself. the smallest example is 6 = (1+2+3) , 28 = (1+2+4+7+14) etc.
   
 * *strong_number.cpp*: A strong number is a positive number where the sum of the factorials of its digits equals to the original number (also called a                                    Krishnamurthy number or factorion).for example : 145 = 1!+4!+5! , 1 = 1! etc.
   
-* sum-product_number.cpp*: the Sum-Product Number is a positive integer where the product of its digits is exactly equal to the sum of its digits. for example :                               22 , 123 etc.
+* *sum-product_number.cpp*: the Sum-Product Number is a positive integer where the product of its digits is exactly equal to the sum of its digits. for example :                               22 , 123 etc.
 
 ## Prerequisites
 Ensure you have a C++ compiler installed (like g++ via GCC,dev C++,Clang and VScode).
