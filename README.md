@@ -1,4 +1,4 @@
- LogicBuildingHub
+# LogicBuildingHub
 Welcome to the *LogicBiuldingHub*!. This repository is a dedicated space for mastering fundamental programming logic,algorithms and C++ concepts.
 The primary goal of this repository is to sharpen problems solving capabilities ,optimize code eficiency andbuild strong foundation for competative programming.
 this repository is for beginner to intermediate level users in C++.
